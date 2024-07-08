@@ -1,0 +1,5 @@
+You need to pass exactly 1 string of dice.
+    Some examples:
+        - d10
+        - 3d20
+        - 1d12+1d8
