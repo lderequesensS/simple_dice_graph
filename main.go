@@ -104,4 +104,5 @@ func main() {
 		}
 		fmt.Printf(" [%d] %.3f%%\n", sum, prob)
 	}
+	fmt.Printf("Total options: %d\n", max_number - dice_amount)
 }
